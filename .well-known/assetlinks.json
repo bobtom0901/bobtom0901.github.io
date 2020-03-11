@@ -1,0 +1,6 @@
+
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.bobtom.instanttreasure",
+               "sha256_cert_fingerprints": ["71:2B:01:38:C6:85:18:41:30:9E:BE:DC:3F:80:44:C6:BC:BD:0F:0E:EF:AF:82:3B:19:31:A8:5C:59:B0:EA:90"] }
+}]
